@@ -30,7 +30,7 @@ const flowDocs = addKeyword([
 
 const flowTuto = addKeyword(['tutorial', 'tuto']).addAnswer(
     [
-        '🙌 Aquí encontras un ejemplo rapido',
+        'hola hola🙌 Aquí encontras un ejemplo rapido',
         'https://bot-whatsapp.netlify.app/docs/example/',
         '\n*2* Para siguiente paso.',
     ],
