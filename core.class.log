@@ -1,0 +1,351 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '5F0F404E860D7932F7D61CD65D8EC22C',
+    participant: undefined
+  },
+  messageTimestamp: 1674572495,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '7167CB515EABA22590AFB3B560220BD1',
+    participant: undefined
+  },
+  messageTimestamp: 1674572549,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '188397C9555F5A6B145E24DAFB040CE4',
+    participant: undefined
+  },
+  messageTimestamp: 1674572565,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '53D3CF74311211FCA885F64E2EE54AD3',
+    participant: undefined
+  },
+  messageTimestamp: 1674572607,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Hfgy',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hfgy',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '7685DEC43C446469BFF83156E7194E2A',
+    participant: undefined
+  },
+  messageTimestamp: 1674572619,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: 'DEAF800F0BC4C656FB32E6EB87E99EF9',
+    participant: undefined
+  },
+  messageTimestamp: 1674572628,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Ola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ola',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573138346458@s.whatsapp.net',
+    fromMe: false,
+    id: '01E83AB96F87103BFFF39BAFF16B2D47',
+    participant: undefined
+  },
+  messageTimestamp: 1674580433,
+  pushName: 'Viejo Patiño Fc',
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573138346458'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157716374@s.whatsapp.net',
+    fromMe: false,
+    id: 'F5F2FE163C1408D982211658F990D49D',
+    participant: undefined
+  },
+  messageTimestamp: 1674584520,
+  pushName: 'Gutsy ropa deportiva',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/d/f/Ag-uFX-pgoNKfxPzrbdLx_k98j7fp1N44UXuJi4tkZyO.enc',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 25,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/31329333_871988560703547_1759202151887599352_n.enc?ccb=11-4&oh=01_AdTpH5X3oDUaeSB5OtCVVgl0sgMddPT_V03cGH0vGefq3w&oe=63F7AD39',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gutsy ropa deportiva',
+  body: '',
+  from: '573157716374'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157716374@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08E582BE6CFF5A230',
+    participant: undefined
+  },
+  messageTimestamp: 1674589841,
+  pushName: 'Gutsy ropa deportiva',
+  message: Message {
+    conversation: 'holaaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gutsy ropa deportiva',
+  body: 'holaaa',
+  from: '573157716374'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '218325277076D531E1C7A181E687C919',
+    participant: undefined
+  },
+  messageTimestamp: 1674591693,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: 'B07D18B8D73A9F7B851A402043C6BF3C',
+    participant: undefined
+  },
+  messageTimestamp: 1674591744,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Ole',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ole',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '3CEB0AC47A4E05AC3FCE506BA4495A8E',
+    participant: undefined
+  },
+  messageTimestamp: 1674591752,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Alo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Alo',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: 'D844DB6B3A9C75E8B6127B56986ECEEE',
+    participant: undefined
+  },
+  messageTimestamp: 1674591758,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Ole',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ole',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '37A1F8370686A74B21D54C75ED1B8A5E',
+    participant: undefined
+  },
+  messageTimestamp: 1674591769,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Alo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Alo',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: '58BDE0CD22ED50216EDC010E04256D8E',
+    participant: undefined
+  },
+  messageTimestamp: 1674591775,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'OLE',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'OLE',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: 'E4B6EFDFEAB12A7D9750A0E61EB43DA3',
+    participant: undefined
+  },
+  messageTimestamp: 1674591783,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Ole',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ole',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: 'D2A6042D08219D872980D5EDDB7B6EC1',
+    participant: undefined
+  },
+  messageTimestamp: 1674591805,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Holaaaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Holaaaa',
+  from: '573165291457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165291457@s.whatsapp.net',
+    fromMe: false,
+    id: 'A518930BBC1ABA8DB27AC27C01F208A7',
+    participant: undefined
+  },
+  messageTimestamp: 1674591814,
+  pushName: 'Rosa Maria Flor',
+  message: Message {
+    conversation: 'Jxdhudd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jxdhudd',
+  from: '573165291457'
+}
